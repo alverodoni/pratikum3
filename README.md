@@ -80,4 +80,4 @@ Setelah setiap iterasi, nilai `i` ditambah 1 agar loop mendekati kondisi berhent
 Setelah semua bilangan dimasukkan dan dibandingkan, program menampilkan bilangan terbesar yang ditemukan dengan mencetak nilai `MAX`.
 
 ## hasil kode program
-![foto]
+![foto](https://github.com/alverodoni/foto/blob/8472fc98ff7df7c0d9037884d7a9a313be90ad9b/Screenshot%202024-10-22%20204538.png)
